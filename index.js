@@ -1,0 +1,12 @@
+// import "./Scripts/ChareaterCount";
+// import "./Scripts/TweArrayCheckSquredValue";
+// import "./Scripts/Anagrams";
+// import "./Scripts/Anagrams2";
+// import "./Scripts/Info";
+// import "./Scripts/sumZero";
+// import "./Scripts/countUniqueValue";
+// import "./Scripts/maxSumArray";
+// import "./Scripts/DivideAndConquerPattern";
+// import "./Scripts/Tests";
+// import "./Scripts/recursion";
+import "./Scripts/Test2";
